@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+
+.box {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50px;
+
+}
+.profile {
+    background-color: #fff;
+    height: 80px;
+    width: 305px;
+    padding: 15px 35px;
+    margin: 15px;
+    margin-top: -15px;
+
+}
+
+
+h1 {
+    padding: 25px 0px;
+    text-align: center;
+}
+
+button {
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+    background-color: #f0f0f0d3;
+    color: #000000;
+    margin-left: 470px;
+}
